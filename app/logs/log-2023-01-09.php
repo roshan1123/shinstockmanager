@@ -1,0 +1,245 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-09 10:30:37 --> Severity: 8192 --> strlen(): Passing null to parameter #1 ($string) of type string is deprecated /Users/saleem/Sites/sma/app/libraries/Datatables.php 531
+ERROR - 2023-01-09 10:30:37 --> Severity: 8192 --> strlen(): Passing null to parameter #1 ($string) of type string is deprecated /Users/saleem/Sites/sma/app/libraries/Datatables.php 531
+ERROR - 2023-01-09 10:30:45 --> Severity: 8192 --> strlen(): Passing null to parameter #1 ($string) of type string is deprecated /Users/saleem/Sites/sma/app/libraries/Datatables.php 531
+ERROR - 2023-01-09 10:30:45 --> Severity: 8192 --> strlen(): Passing null to parameter #1 ($string) of type string is deprecated /Users/saleem/Sites/sma/app/libraries/Datatables.php 531
+ERROR - 2023-01-09 10:32:28 --> Severity: Warning --> foreach() argument must be of type array|object, bool given /Users/saleem/Sites/sma/app/controllers/admin/Calendar.php 128
+ERROR - 2023-01-09 10:32:49 --> Could not find the language line " note"
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:32:55 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:33:29 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:34:10 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:20 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:30 --> Severity: 8192 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:44 --> Severity: error --> Exception: syntax error, unexpected token "," /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:35:45 --> Severity: error --> Exception: syntax error, unexpected token "," /Users/saleem/Sites/sma/app/libraries/Sma.php 170
+ERROR - 2023-01-09 10:37:18 --> Severity: 8192 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated /Users/saleem/Sites/sma/system/database/DB_query_builder.php 531
+ERROR - 2023-01-09 10:37:18 --> Severity: 8192 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated /Users/saleem/Sites/sma/system/database/DB_query_builder.php 531
+ERROR - 2023-01-09 10:37:18 --> Severity: 8192 --> trim(): Passing null to parameter #1 ($string) of type string is deprecated /Users/saleem/Sites/sma/system/database/DB_query_builder.php 531
+ERROR - 2023-01-09 10:40:50 --> Could not find the language line "pole_display"
+ERROR - 2023-01-09 10:41:03 --> Severity: Warning --> Undefined property: stdClass::$remote_printing /Users/saleem/Sites/sma/app/controllers/admin/Pos.php 1034
+ERROR - 2023-01-09 10:41:05 --> Severity: Warning --> preg_match(): Compilation failed: invalid range in character class at offset 29 /Users/saleem/Sites/sma/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php 126
+ERROR - 2023-01-09 10:41:05 --> Severity: error --> Exception: Printer '//SalWin/BSRP350' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation. /Users/saleem/Sites/sma/vendor/mike42/escpos-php/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php 155
+ERROR - 2023-01-09 10:41:06 --> Could not find the language line "pole_display"
+ERROR - 2023-01-09 10:41:13 --> Could not find the language line "pole_display"
+ERROR - 2023-01-09 10:41:37 --> Could not find the language line "pole_display"
+ERROR - 2023-01-09 10:43:45 --> Could not find the language line "pole_display"
+ERROR - 2023-01-09 10:43:56 --> Could not find the language line "pole_display"
+ERROR - 2023-01-09 10:44:01 --> Could not find the language line "pole_display"
+ERROR - 2023-01-09 10:48:17 --> Could not find the language line "pole_display"
+ERROR - 2023-01-09 11:05:50 --> Severity: Warning --> Undefined array key "HTTP_REFERER" /Users/saleem/Sites/sma/app/controllers/Notify.php 25
+ERROR - 2023-01-09 13:38:45 --> Could not find the language line "site_name"
+ERROR - 2023-01-09 13:38:55 --> Could not find the language line "site_name"
+ERROR - 2023-01-09 13:39:01 --> Severity: Warning --> Undefined variable $barcodes /Users/saleem/Sites/sma/app/controllers/admin/Products.php 1943
+ERROR - 2023-01-09 13:39:01 --> Could not find the language line "site_name"
+ERROR - 2023-01-09 13:39:38 --> Could not find the language line "site_name"

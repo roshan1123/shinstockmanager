@@ -1,0 +1,3 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-06-27 16:57:46 --> Query error: Unknown column 'base_unit_cost' in 'field list' - Invalid query: INSERT INTO `sma_transfer_items` (`product_id`, `product_code`, `product_name`, `option_id`, `net_unit_cost`, `unit_cost`, `quantity`, `product_unit_id`, `product_unit_code`, `unit_quantity`, `quantity_balance`, `warehouse_id`, `item_tax`, `tax_rate_id`, `tax`, `subtotal`, `expiry`, `real_unit_cost`, `date`, `base_unit_cost`, `transfer_id`) VALUES ('1', 'FFR01', 'Grapefruit', NULL, '3.890', '3.8900', '1', '4', 'pc', '1', '1', '2', '0.0000', '5', '0', '3.890', '0000-00-00', '3.890', '2024-06-27', '3.890', 15)
